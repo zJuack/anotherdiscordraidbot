@@ -4,6 +4,13 @@ Otro Bot de Raid de Discord, no es lo esperado o lo buscado por los mas exigente
 
 ## Instalacion / Configurar
 
+Primero clona el repositorio:
+```bash
+git clone https://github.com/zJuack/anotherdiscordraidbot
+```
+
+Despues de eso es hora que configures, edites y hostees el bot, repl.it es una opcion; o Heroku.
+
 Facilmente podrias configurar el bot haciendo cambios en ciertas lineas, como por ejemplo:
 
 ```js
