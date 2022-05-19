@@ -6,7 +6,7 @@ Otro Bot de Raid de Discord, no es lo esperado o lo buscado por los mas exigente
 
 Primero clona el repositorio:
 ```bash
-[/home/1080] nyethash~# git clone https://github.com/zJuack/anotherdiscordraidbot
+[/home/1080] nyethash~ # git clone https://github.com/zJuack/anotherdiscordraidbot
 ```
 
 Despues de eso es hora que configures, edites y hostees el bot, repl.it es una opcion; o Heroku.
@@ -39,4 +39,5 @@ client.login("El Token de tu Bot esta aqui.");
 });
 ```
 
-Hay mas cosas que puedes cambiar, pero tu las podes ver tu mismo, por cualquier problema; no dudes entrar a https://discord.gg/stocking y contactarme via DM o preguntar por quien es zHack.
+Hay mas cosas que puedes cambiar, pero tu las podes ver tu mismo, por cualquier problema; no dudes en contactarme.
+
