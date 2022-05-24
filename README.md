@@ -6,7 +6,7 @@ Otro Bot de Raid de Discord, no es lo esperado o lo buscado por los mas exigente
 
 Primero clona el repositorio:
 ```bash
-[/home/1080] nyethash~ # git clone https://github.com/zJuack/anotherdiscordraidbot
+[/home/1080] nyethash ~ # git clone https://github.com/zJuack/anotherdiscordraidbot
 ```
 
 Despues de eso es hora que configures, edites y hostees el bot, repl.it es una opcion; o Heroku.
